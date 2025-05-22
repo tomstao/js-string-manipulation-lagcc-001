@@ -1,0 +1,12 @@
+{
+  "name": "js-string-manipulation-lagcc-001",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "scripts": {
+    "test":   "jasmine",                         
+    "answer": "jasmine spec/1-encoder.spec.js jasmine spec/2-decoder.spec.js"   
+  },
+  "devDependencies": {
+    "jasmine": "^5.0.0"
+  }
+}
