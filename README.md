@@ -5,6 +5,9 @@ tags: strings, methods
 
 # String Manipulation
 
+![mission intel](./img/encodedecodeimgmini.png)
+
+
 ## Instructions
 
 In this lab you'll be practicing manipulating strings.
